@@ -1,0 +1,14 @@
+# University ERP Database Configuration
+# Copy this file to config.properties and update with your database credentials
+
+# MySQL connection - Base URL for ERP DB (Auth DB connection will modify this)
+db.url=jdbc:mysql://localhost:3306/university_erp?serverTimezone=UTC&useSSL=false&allowPublicKeyRetrieval=true
+db.user=your_mysql_username
+db.password=your_mysql_password
+
+# HikariCP Connection Pool Settings
+db.maximumPoolSize=6
+db.minimumIdle=2
+
+# Note: The system will automatically create a separate connection pool for auth_db
+# Make sure both databases (auth_db and university_erp) exist before running the application
