@@ -92,10 +92,6 @@ mvn clean package
 java -jar target/university-erp-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
 
-## 👤 Default Login Credentials
-
-- **Admin**: username: `admin`, password: `password`
-
 ## 📊 System Statistics
 
 - **500+** Students across 4 academic years
@@ -153,23 +149,6 @@ src/main/java/edu/univ/erp/
 - Transaction management
 - Comprehensive error handling
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📧 Contact
-
-Your Name - your.email@example.com
-
-Project Link: [https://github.com/yourusername/university-erp](https://github.com/yourusername/university-erp)
 
 ## 🙏 Acknowledgments
 
