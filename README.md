@@ -50,7 +50,7 @@ The University ERP System is a desktop application designed to manage students, 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/university-erp.git
+git clone https://github.com/Arnav1215/university-erp.git
 cd university-erp
 ```
 
